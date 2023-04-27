@@ -368,12 +368,14 @@
 "Assets/Scripts/PlayerManagement/TurnManager.cs"
 "Assets/Scripts/ScoringManagement/ScoringManager.cs"
 "Assets/Scripts/ScoringManagement/Sequence.cs"
-"Assets/Scripts/SO Asset Scripts/CardAsset/CardAsset.cs"
-"Assets/Scripts/SO Asset Scripts/CharacterAsset/CharacterAsset.cs"
+"Assets/Scripts/SO Assets/Scripts/CardAssets.cs"
+"Assets/Scripts/SO Assets/Scripts/CardAssetsEditor.cs"
 "Assets/Scripts/UIAndInteraction/UIManager.cs"
 "Assets/Scripts/Visual/BetterCardRotation.cs"
 "Assets/Scripts/Visual/HoverPreview.cs"
 "Assets/Scripts/Visual/OneCardManager.cs"
+"Assets/Scripts/Visual/SO Asset Scripts/CardAsset/CardAsset.cs"
+"Assets/Scripts/Visual/SO Asset Scripts/CharacterAsset/CharacterAsset.cs"
 -langversion:9.0
 
 /deterministic

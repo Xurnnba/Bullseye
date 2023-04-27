@@ -371,9 +371,9 @@
 -r:"Library/Bee/artifacts/200b0aE.dag/UnityEditor.UI.ref.dll"
 -r:"Library/Bee/artifacts/200b0aE.dag/UnityEngine.TestRunner.ref.dll"
 -r:"Library/Bee/artifacts/200b0aE.dag/UnityEngine.UI.ref.dll"
-"Assets/Scripts/SO Asset Scripts/CardAsset/Editor/CardUnityIntegration.cs"
-"Assets/Scripts/SO Asset Scripts/CharacterAsset/Editor/CharacterUnityIntegration.cs"
-"Assets/Scripts/SO Asset Scripts/Editor/ScriptableObjectUtility2.cs"
+"Assets/Scripts/Visual/SO Asset Scripts/CardAsset/Editor/CardUnityIntegration.cs"
+"Assets/Scripts/Visual/SO Asset Scripts/CharacterAsset/Editor/CharacterUnityIntegration.cs"
+"Assets/Scripts/Visual/SO Asset Scripts/Editor/ScriptableObjectUtility2.cs"
 -langversion:9.0
 
 /deterministic
